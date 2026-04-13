@@ -1,30 +1,40 @@
 [
   {
+    "id": "GNH85",
+    "name": "Pro Builder Castle Grayskull",
+    "year": 2021,
+    "pieces": 3508,
+    "figures": ["He-Man", "Skeletor", "Man-at-Arms", "Teela", "Sorceress", "Zoar", "Beast Man"],
+    "subtheme": "Large Playsets",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/04/Castle-Grayskull-wm.jpg?fit=980%2C653&ssl=1"
+  },
+  {
+    "id": "HKN44",
+    "name": "Pro Builder Snake Mountain",
+    "year": 2022,
+    "pieces": 3508,
+    "figures": ["He-Man (Thunder Punch)", "Dragon Blaster Skeletor", "Evil-Lyn", "Trap Jaw", "Webstor", "Ram-Man"],
+    "subtheme": "Large Playsets",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Snake-Mountain-front.jpg?fit=905%2C693&ssl=1"
+  },
+  {
+    "id": "JMB32",
+    "name": "Battle of Castle Grayskull",
+    "year": 2026,
+    "pieces": null,
+    "figures": ["He-Man", "Skeletor"],
+    "subtheme": "Large Playsets",
+    "note": "Nano-Maßstab, keine artikulierten Mikro-Figuren",
+    "imageUrl": "https://placehold.co/300x300/1a1a2e/e0e0e0?text=Grayskull+2026"
+  },
+  {
     "id": "GNH84",
     "name": "Wind Raider Attack",
     "year": 2021,
     "pieces": 273,
     "figures": ["He-Man", "Skeletor"],
-    "subtheme": "Vehicles",
+    "subtheme": "Vehicles & Battle Sets",
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/04/Wind-Raider-Attack-wm.jpg?fit=980%2C653&ssl=1"
-  },
-  {
-    "id": "GNN86",
-    "name": "Battle Cat",
-    "year": 2021,
-    "pieces": 198,
-    "figures": ["He-Man"],
-    "subtheme": "Creatures",
-    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/12/Battlecat-v1.jpg?fit=855%2C570&ssl=1"
-  },
-  {
-    "id": "GNN87",
-    "name": "Panthor & Skeletor",
-    "year": 2021,
-    "pieces": 208,
-    "figures": ["Skeletor"],
-    "subtheme": "Creatures",
-    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2021/03/Panthor-v1-01.jpg?fit=980%2C550&ssl=1"
   },
   {
     "id": "GXP25",
@@ -32,44 +42,8 @@
     "year": 2021,
     "pieces": 285,
     "figures": ["Mekanek", "Tri-Klops"],
-    "subtheme": "Vehicles",
+    "subtheme": "Vehicles & Battle Sets",
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2021/03/Battle-Ram.jpg?fit=980%2C550&ssl=1"
-  },
-  {
-    "id": "GXP27",
-    "name": "He-Man & Jet Sled",
-    "year": 2021,
-    "pieces": 81,
-    "figures": ["He-Man"],
-    "subtheme": "Battle Figures",
-    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2022/08/He-Man-v6.jpg?fit=954%2C536&ssl=1"
-  },
-  {
-    "id": "GXP28",
-    "name": "Fisto & Cliff Climber",
-    "year": 2021,
-    "pieces": 110,
-    "figures": ["Fisto"],
-    "subtheme": "Battle Figures",
-    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2022/08/Fisto-v2-naked-01.jpg?fit=954%2C536&ssl=1"
-  },
-  {
-    "id": "GXP29",
-    "name": "Trap Jaw & Laser Cannon",
-    "year": 2021,
-    "pieces": 91,
-    "figures": ["Trap Jaw"],
-    "subtheme": "Battle Figures",
-    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2022/08/Trap-Jaw-v1-lazer-01.jpg?fit=954%2C536&ssl=1"
-  },
-  {
-    "id": "GNH85",
-    "name": "Pro Builder Castle Grayskull",
-    "year": 2021,
-    "pieces": 3508,
-    "figures": ["He-Man", "Skeletor", "Man-at-Arms", "Teela", "Sorceress", "Zoar", "Beast Man"],
-    "subtheme": "Pro Builder",
-    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/04/Castle-Grayskull-wm.jpg?fit=980%2C653&ssl=1"
   },
   {
     "id": "GYV14",
@@ -77,7 +51,7 @@
     "year": 2022,
     "pieces": 537,
     "figures": ["He-Man (Battle Armor)", "Mer-Man"],
-    "subtheme": "Vehicles",
+    "subtheme": "Vehicles & Battle Sets",
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Battlecat-vs-Roton-v1.jpg?fit=980%2C504&ssl=1"
   },
   {
@@ -86,7 +60,7 @@
     "year": 2022,
     "pieces": 548,
     "figures": ["Zodac", "Sorceress", "Skeletor (Battle Armor)", "Zoar"],
-    "subtheme": "Vehicles",
+    "subtheme": "Vehicles & Battle Sets",
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2021/03/Point-Dread-01.jpg?fit=782%2C721&ssl=1"
   },
   {
@@ -95,18 +69,8 @@
     "year": 2022,
     "pieces": 489,
     "figures": ["Skeletor (Battle Armor)", "Roboto"],
-    "subtheme": "Vehicles",
+    "subtheme": "Vehicles & Battle Sets",
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2022/12/Land-Shark.jpg?fit=963%2C509&ssl=1"
-  },
-  {
-    "id": "GPH24",
-    "name": "Battle Bones",
-    "year": 2022,
-    "pieces": null,
-    "figures": ["Moss Man", "Man-At-Arms", "Faker", "Teela"],
-    "subtheme": "Creatures",
-    "exclusive": "SDCC 2022",
-    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Battle-Bones-v1-01.jpg?fit=980%2C512&ssl=1"
   },
   {
     "id": "HKN43",
@@ -114,17 +78,299 @@
     "year": 2022,
     "pieces": 537,
     "figures": ["She-Ra", "Hordak", "Prince Adam"],
-    "subtheme": "Creatures",
+    "subtheme": "Vehicles & Battle Sets",
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2022/12/She-Ra-vs-Hordak-and-Monstroid.jpg?fit=963%2C541&ssl=1"
   },
   {
-    "id": "HKN44",
-    "name": "Pro Builder Snake Mountain",
+    "id": "HFF28",
+    "name": "Eternia Battleground",
+    "year": 2023,
+    "pieces": null,
+    "figures": ["He-Man", "Buzz-Off", "Webstor", "Ninjor"],
+    "subtheme": "Vehicles & Battle Sets",
+    "note": "Enthält Power Tower und Attak Trak",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Eternia-Battleground-front.jpg?fit=386%2C718&ssl=1"
+  },
+  {
+    "id": "JMB30",
+    "name": "Attack of the Collector",
+    "year": 2024,
+    "pieces": 594,
+    "figures": ["He-Man", "The Collector"],
+    "subtheme": "Vehicles & Battle Sets",
+    "imageUrl": "https://shop.mattel.com/cdn/shop/files/u3hsbtnnaf2nahtkh0ku.jpg?v=1775593817"
+  },
+  {
+    "id": "JNF83",
+    "name": "Eternia Flight Fight",
+    "year": 2024,
+    "pieces": 411,
+    "figures": ["He-Man", "Evil-Lyn"],
+    "subtheme": "Vehicles & Battle Sets",
+    "imageUrl": "https://shop.mattel.com/cdn/shop/files/zrxtrf5bodiet9modbof.jpg?v=1775073922"
+  },
+  {
+    "id": "GNN86",
+    "name": "Battle Cat",
+    "year": 2021,
+    "pieces": 198,
+    "figures": ["He-Man"],
+    "subtheme": "Vehicles & Battle Sets",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/12/Battlecat-v1.jpg?fit=855%2C570&ssl=1"
+  },
+  {
+    "id": "GNN87",
+    "name": "Panthor & Skeletor",
+    "year": 2021,
+    "pieces": 208,
+    "figures": ["Skeletor"],
+    "subtheme": "Vehicles & Battle Sets",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2021/03/Panthor-v1-01.jpg?fit=980%2C550&ssl=1"
+  },
+  {
+    "id": "GWP04",
+    "name": "He-Man & Jet Sled",
+    "year": 2021,
+    "pieces": 81,
+    "figures": ["He-Man"],
+    "subtheme": "Skull Collection",
+    "note": "Grauer Skeletorkopf",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2022/08/He-Man-v6.jpg?fit=954%2C536&ssl=1"
+  },
+  {
+    "id": "GWP05",
+    "name": "Skeletor & Panthor",
+    "year": 2021,
+    "pieces": null,
+    "figures": ["Skeletor"],
+    "subtheme": "Skull Collection",
+    "note": "Lila Skeletorkopf",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2022/08/Skeletor-v6-and-panthor-v2-01.jpg?fit=954%2C536&ssl=1"
+  },
+  {
+    "id": "GWP06",
+    "name": "Fisto & Cliff Climber",
+    "year": 2021,
+    "pieces": 110,
+    "figures": ["Fisto"],
+    "subtheme": "Skull Collection",
+    "note": "Blauer / Türkiser Skeletorkopf",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2022/08/Fisto-v2-naked-01.jpg?fit=954%2C536&ssl=1"
+  },
+  {
+    "id": "GWP07",
+    "name": "Trap Jaw & Laser Cannon",
+    "year": 2021,
+    "pieces": 91,
+    "figures": ["Trap Jaw"],
+    "subtheme": "Skull Collection",
+    "note": "Neongrüner Skeletorkopf",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2022/08/Trap-Jaw-v1-lazer-01.jpg?fit=954%2C536&ssl=1"
+  },
+  {
+    "id": "GWW74",
+    "name": "He-Man & Jet Sled (Carded)",
+    "year": 2021,
+    "pieces": 81,
+    "figures": ["He-Man"],
+    "subtheme": "Skull Collection",
+    "note": "Carded-Version ohne Skeletorkopf-Dose",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2022/08/He-Man-v6.jpg?fit=954%2C536&ssl=1"
+  },
+  {
+    "id": "GWW75",
+    "name": "Trap Jaw & Laser Cannon (Carded)",
+    "year": 2021,
+    "pieces": 91,
+    "figures": ["Trap Jaw"],
+    "subtheme": "Skull Collection",
+    "note": "Carded-Version ohne Skeletorkopf-Dose",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2022/08/Trap-Jaw-v1-lazer-01.jpg?fit=954%2C536&ssl=1"
+  },
+  {
+    "id": "GWW76",
+    "name": "Fisto & Cliff Climber (Carded)",
+    "year": 2021,
+    "pieces": 110,
+    "figures": ["Fisto"],
+    "subtheme": "Skull Collection",
+    "note": "Carded-Version ohne Skeletorkopf-Dose",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2022/08/Fisto-v2-naked-01.jpg?fit=954%2C536&ssl=1"
+  },
+  {
+    "id": "FWP04",
+    "name": "He-Man (Wave 1)",
+    "year": 2020,
+    "pieces": null,
+    "figures": ["He-Man"],
+    "subtheme": "Single Figure Packs",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/06/He-Man-v1-Finished.jpg?fit=720%2C480&ssl=1"
+  },
+  {
+    "id": "FWP05",
+    "name": "Skeletor (Wave 1)",
+    "year": 2020,
+    "pieces": null,
+    "figures": ["Skeletor"],
+    "subtheme": "Single Figure Packs",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/06/Skeletor-v1-Finished.jpg?fit=720%2C480&ssl=1"
+  },
+  {
+    "id": "FWP06",
+    "name": "Beast Man (Wave 2)",
+    "year": 2020,
+    "pieces": null,
+    "figures": ["Beast Man"],
+    "subtheme": "Single Figure Packs",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/06/Beast-Man-v1-Finished.jpg?fit=720%2C480&ssl=1"
+  },
+  {
+    "id": "FWP07",
+    "name": "Teela (Wave 2)",
+    "year": 2020,
+    "pieces": null,
+    "figures": ["Teela"],
+    "subtheme": "Single Figure Packs",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/06/Teela-v1-Finished.jpg?fit=720%2C480&ssl=1"
+  },
+  {
+    "id": "FWP08",
+    "name": "Man-At-Arms (Wave 3)",
+    "year": 2020,
+    "pieces": null,
+    "figures": ["Man-At-Arms"],
+    "subtheme": "Single Figure Packs",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/09/Man-At-Arms-v1.jpg?fit=855%2C570&ssl=1"
+  },
+  {
+    "id": "FWP09",
+    "name": "Evil-Lyn (Wave 3)",
+    "year": 2020,
+    "pieces": null,
+    "figures": ["Evil-Lyn"],
+    "subtheme": "Single Figure Packs",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/08/Evil-Lyn-v1-Finished.jpg?fit=720%2C480&ssl=1"
+  },
+  {
+    "id": "FWP10",
+    "name": "Stratos (Wave 3)",
+    "year": 2020,
+    "pieces": null,
+    "figures": ["Stratos"],
+    "subtheme": "Single Figure Packs",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/08/Stratos-v1-a.jpg?fit=855%2C570&ssl=1"
+  },
+  {
+    "id": "FWP11",
+    "name": "Scare Glow (Wave 4)",
+    "year": 2020,
+    "pieces": null,
+    "figures": ["Scare Glow"],
+    "subtheme": "Single Figure Packs",
+    "note": "Glow in the Dark",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/08/Scareglow-v1-Finished-1.jpg?fit=720%2C480&ssl=1"
+  },
+  {
+    "id": "FWP12",
+    "name": "Prince Adam (Wave 4)",
+    "year": 2020,
+    "pieces": null,
+    "figures": ["Prince Adam"],
+    "subtheme": "Single Figure Packs",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/06/Prince-Adam-v1-Finished.jpg?fit=720%2C480&ssl=1"
+  },
+  {
+    "id": "FWP13",
+    "name": "Moss Man (Wave 5)",
+    "year": 2020,
+    "pieces": null,
+    "figures": ["Moss Man"],
+    "subtheme": "Single Figure Packs",
+    "note": "Beflockt",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/09/Moss-Man-v1.jpg?fit=855%2C570&ssl=1"
+  },
+  {
+    "id": "FWP14",
+    "name": "Mer-Man (Wave 5)",
+    "year": 2020,
+    "pieces": null,
+    "figures": ["Mer-Man"],
+    "subtheme": "Single Figure Packs",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/09/Merman-v1.jpg?fit=855%2C570&ssl=1"
+  },
+  {
+    "id": "FWP15",
+    "name": "Fisto (Wave 5)",
+    "year": 2020,
+    "pieces": null,
+    "figures": ["Fisto"],
+    "subtheme": "Single Figure Packs",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/09/Fisto-v1.jpg?fit=855%2C570&ssl=1"
+  },
+  {
+    "id": "HHK96",
+    "name": "Evil Seed Vine Trap",
     "year": 2022,
-    "pieces": 3508,
-    "figures": ["He-Man (Thunder Punch)", "Dragon Blaster Skeletor", "Evil-Lyn", "Trap Jaw", "Webstor", "Ram-Man"],
-    "subtheme": "Pro Builder",
-    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Snake-Mountain-front.jpg?fit=905%2C693&ssl=1"
+    "pieces": 196,
+    "figures": ["Evil Seed", "She-Ra"],
+    "subtheme": "Vehicles & Battle Sets",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2022/09/zombie-he-man.jpg?fit=980%2C550&ssl=1"
+  },
+  {
+    "id": "HHK97",
+    "name": "Ram-Man Battle Crash",
+    "year": 2022,
+    "pieces": 148,
+    "figures": ["Ram-Man", "Trap Jaw"],
+    "subtheme": "Vehicles & Battle Sets",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Ram-Man-v1.jpg?fit=980%2C550&ssl=1"
+  },
+  {
+    "id": "HHK98",
+    "name": "Castle Grayskull Battle",
+    "year": 2022,
+    "pieces": 191,
+    "figures": ["He-Man", "Beast Man"],
+    "subtheme": "Vehicles & Battle Sets",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Castle-Grayskull-front.jpg?resize=150%2C150&ssl=1"
+  },
+  {
+    "id": "GCP91",
+    "name": "Battle for Eternia I",
+    "year": 2020,
+    "pieces": null,
+    "figures": ["He-Man", "Skeletor", "Teela", "Beast Man", "Faker"],
+    "subtheme": "Exclusives & Multi-Packs",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Battle-for-Eternia-wm-01.jpg?fit=980%2C502&ssl=1"
+  },
+  {
+    "id": "GMN75",
+    "name": "Battle for Eternia II",
+    "year": 2021,
+    "pieces": null,
+    "figures": ["He-Man (Battle Armor)", "Clawful", "Stinkor", "Sorceress", "Zodac"],
+    "subtheme": "Exclusives & Multi-Packs",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Battle-for-Eternia-II.jpg?fit=980%2C461&ssl=1"
+  },
+  {
+    "id": "GPH24",
+    "name": "Battle Bones",
+    "year": 2022,
+    "pieces": null,
+    "figures": ["Moss Man", "Man-At-Arms", "Faker", "Teela"],
+    "subtheme": "Exclusives & Multi-Packs",
+    "exclusive": "SDCC 2022",
+    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Battle-Bones-v1-01.jpg?fit=980%2C512&ssl=1"
+  },
+  {
+    "id": "HHW82",
+    "name": "40th Anniversary Set",
+    "year": 2023,
+    "pieces": null,
+    "figures": ["He-Man (Mini-Comic)", "He-Man (Anti-Eternia)", "He-Man (Thunder Punch)", "He-Man (Battle Armor)"],
+    "subtheme": "Exclusives & Multi-Packs",
+    "exclusive": "Mattel Creations",
+    "imageUrl": "https://placehold.co/300x300/1a1a2e/e0e0e0?text=40th+Anniversary"
   },
   {
     "id": "HKN45",
@@ -132,7 +378,7 @@
     "year": 2022,
     "pieces": 368,
     "figures": ["Man-At-Arms"],
-    "subtheme": "Vehicles",
+    "subtheme": "Vehicles & Battle Sets",
     "unreleased": true,
     "note": "Gestrichen; Attak Trak erschien stattdessen in HFF28 Eternia Battleground",
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Attak-Trak-v1.jpg?fit=980%2C550&ssl=1"
@@ -143,7 +389,7 @@
     "year": 2022,
     "pieces": 280,
     "figures": ["Fisto"],
-    "subtheme": "Creatures",
+    "subtheme": "Vehicles & Battle Sets",
     "unreleased": true,
     "imageUrl": "https://placehold.co/300x300/1a1a2e/e0e0e0?text=Stridor"
   },
@@ -153,45 +399,9 @@
     "year": 2022,
     "pieces": 280,
     "figures": ["Jitsu"],
-    "subtheme": "Creatures",
+    "subtheme": "Vehicles & Battle Sets",
     "unreleased": true,
     "imageUrl": "https://placehold.co/300x300/1a1a2e/e0e0e0?text=Night+Stalker"
-  },
-  {
-    "id": "HHK96",
-    "name": "Evil Seed Vine Trap",
-    "year": 2022,
-    "pieces": 196,
-    "figures": ["Evil Seed", "She-Ra"],
-    "subtheme": "Battle Figures",
-    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2022/09/zombie-he-man.jpg?fit=980%2C550&ssl=1"
-  },
-  {
-    "id": "HHK97",
-    "name": "Ram-Man Battle Crash",
-    "year": 2022,
-    "pieces": 148,
-    "figures": ["Ram-Man", "Trap Jaw"],
-    "subtheme": "Battle Figures",
-    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Ram-Man-v1.jpg?fit=980%2C550&ssl=1"
-  },
-  {
-    "id": "HHK98",
-    "name": "Castle Grayskull Battle",
-    "year": 2022,
-    "pieces": 191,
-    "figures": ["He-Man", "Beast Man"],
-    "subtheme": "Battle Figures",
-    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Castle-Grayskull-front.jpg?resize=150%2C150&ssl=1"
-  },
-  {
-    "id": "GNH86",
-    "name": "Battle for Eternia",
-    "year": 2020,
-    "pieces": null,
-    "figures": ["He-Man", "Skeletor", "Beast Man"],
-    "subtheme": "Battle Figures",
-    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Battle-for-Eternia-wm-01.jpg?fit=980%2C502&ssl=1"
   },
   {
     "id": "HKN48",
@@ -199,57 +409,9 @@
     "year": 2023,
     "pieces": null,
     "figures": ["Buzz-Off", "Ninjor"],
-    "subtheme": "Battle Figures",
+    "subtheme": "Exclusives & Multi-Packs",
     "unreleased": true,
     "note": "Gestrichen; Figuren erschienen einzeln oder in HFF28 Eternia Battleground",
-    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Battle-for-Eternia-II.jpg?fit=980%2C461&ssl=1"
-  },
-  {
-    "id": "HFF28",
-    "name": "Eternia Battleground",
-    "year": 2023,
-    "pieces": null,
-    "figures": ["He-Man", "Buzz-Off", "Webstor", "Ninjor"],
-    "subtheme": "Playsets",
-    "note": "Enthält Power Tower und Attak Trak",
-    "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Eternia-Battleground-front.jpg?fit=386%2C718&ssl=1"
-  },
-  {
-    "id": "HHW82",
-    "name": "40th Anniversary Set",
-    "year": 2023,
-    "pieces": null,
-    "figures": ["He-Man (Mini-Comic)", "He-Man (Anti-Eternia)", "He-Man (Thunder Punch)", "He-Man (Battle Armor)"],
-    "subtheme": "Exclusives",
-    "exclusive": "Mattel Creations",
-    "imageUrl": "https://placehold.co/300x300/1a1a2e/e0e0e0?text=40th+Anniversary"
-  },
-  {
-    "id": "JMB30",
-    "name": "Attack of the Collector",
-    "year": 2024,
-    "pieces": 594,
-    "figures": ["He-Man", "The Collector"],
-    "subtheme": "Vehicles",
-    "imageUrl": "https://shop.mattel.com/cdn/shop/files/u3hsbtnnaf2nahtkh0ku.jpg?v=1775593817"
-  },
-  {
-    "id": "JNF83",
-    "name": "Eternia Flight Fight",
-    "year": 2024,
-    "pieces": 411,
-    "figures": ["He-Man", "Evil-Lyn"],
-    "subtheme": "Vehicles",
-    "imageUrl": "https://shop.mattel.com/cdn/shop/files/zrxtrf5bodiet9modbof.jpg?v=1775073922"
-  },
-  {
-    "id": "JMB32",
-    "name": "Battle of Castle Grayskull",
-    "year": 2026,
-    "pieces": null,
-    "figures": ["He-Man", "Skeletor"],
-    "subtheme": "Pro Builder",
-    "note": "Nano-Maßstab, keine artikulierten Mikro-Figuren",
-    "imageUrl": "https://placehold.co/300x300/1a1a2e/e0e0e0?text=Grayskull+2026"
+    "imageUrl": "https://placehold.co/300x300/1a1a2e/e0e0e0?text=BfE+III"
   }
 ]
