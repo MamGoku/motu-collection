@@ -45,7 +45,7 @@ export default function Home() {
             className="text-4xl sm:text-5xl font-black tracking-wider uppercase text-white"
             style={{
               fontFamily: "var(--font-cinzel)",
-              textShadow: "2px 2px 0 oklch(0.55 0.22 30), 0 0 20px oklch(0.72 0.19 42 / 60%)",
+              textShadow: "2px 2px 0 oklch(0.28 0.15 25), 0 0 20px oklch(0.45 0.18 25 / 50%)",
             }}
           >
             Masters of the Universe
