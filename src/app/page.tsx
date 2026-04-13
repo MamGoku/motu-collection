@@ -48,13 +48,11 @@ export default function Home() {
           </h1>
         </div>
 
-        {loaded && (
-          <CollectionStats
-            total={allSets.length}
-            owned={owned.length}
-            wishlist={wishlist.length}
-          />
-        )}
+        <CollectionStats
+          total={allSets.length}
+          owned={loaded ? owned.length : 0}
+          wishlist={loaded ? wishlist.length : 0}
+        />
 
         <FilterBar
           status={statusFilter}
@@ -85,7 +83,7 @@ export default function Home() {
           </div>
         ) : (
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3">
-            {Array.from({ length: 12 }).map((_, i) => (
+            {Array.from({ length: allSets.length }).map((_, i) => (
               <div key={i} className="aspect-[3/4] rounded-lg bg-muted animate-pulse" />
             ))}
           </div>

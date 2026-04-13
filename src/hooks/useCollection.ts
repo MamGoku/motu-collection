@@ -1,5 +1,3 @@
-"use client";
-
 import { useState, useEffect, useCallback } from "react";
 
 const STORAGE_KEY = "motu-collection";
@@ -23,34 +21,31 @@ export function useCollection() {
     setLoaded(true);
   }, []);
 
-  const save = useCallback((next: CollectionState) => {
-    setState(next);
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(next));
+  const toggleOwned = useCallback((id: string) => {
+    setState((prev) => {
+      const next: CollectionState = {
+        owned: prev.owned.includes(id)
+          ? prev.owned.filter((x) => x !== id)
+          : [...prev.owned, id],
+        wishlist: prev.wishlist.filter((x) => x !== id),
+      };
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(next));
+      return next;
+    });
   }, []);
 
-  const toggleOwned = useCallback(
-    (id: string) => {
-      save({
-        owned: state.owned.includes(id)
-          ? state.owned.filter((x) => x !== id)
-          : [...state.owned, id],
-        wishlist: state.wishlist.filter((x) => x !== id),
-      });
-    },
-    [state, save]
-  );
-
-  const toggleWishlist = useCallback(
-    (id: string) => {
-      save({
-        wishlist: state.wishlist.includes(id)
-          ? state.wishlist.filter((x) => x !== id)
-          : [...state.wishlist, id],
-        owned: state.owned.filter((x) => x !== id),
-      });
-    },
-    [state, save]
-  );
+  const toggleWishlist = useCallback((id: string) => {
+    setState((prev) => {
+      const next: CollectionState = {
+        wishlist: prev.wishlist.includes(id)
+          ? prev.wishlist.filter((x) => x !== id)
+          : [...prev.wishlist, id],
+        owned: prev.owned.filter((x) => x !== id),
+      };
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(next));
+      return next;
+    });
+  }, []);
 
   const getStatus = useCallback(
     (id: string) => {

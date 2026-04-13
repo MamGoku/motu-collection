@@ -1,11 +1,12 @@
 "use client";
 
+import { useState } from "react";
 import Image from "next/image";
 import { MoTUSet } from "@/types";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import { Check, Star, Package } from "lucide-react";
+import { Check, Star } from "lucide-react";
 
 type Props = {
   set: MoTUSet;
@@ -17,6 +18,8 @@ type Props = {
 const PLACEHOLDER = "https://placehold.co/300x300/1a1a2e/e0e0e0?text=MOTU";
 
 export function SetCard({ set, status, onToggleOwned, onToggleWishlist }: Props) {
+  const [imgSrc, setImgSrc] = useState(set.imageUrl || PLACEHOLDER);
+
   const borderColor =
     status === "owned"
       ? "border-green-500"
@@ -26,17 +29,17 @@ export function SetCard({ set, status, onToggleOwned, onToggleWishlist }: Props)
 
   return (
     <Card
-      className={`border-2 ${borderColor} transition-colors duration-200 flex flex-col overflow-hidden bg-card`}
+      className={`border-2 ring-0 ${borderColor} transition-colors duration-200 flex flex-col overflow-hidden bg-card`}
     >
       <div className="relative aspect-square bg-muted">
         <Image
-          src={set.imageUrl || PLACEHOLDER}
+          src={imgSrc}
           alt={set.name}
           fill
           className="object-contain p-2"
           unoptimized
-          onError={(e) => {
-            (e.currentTarget as HTMLImageElement).src = PLACEHOLDER;
+          onError={() => {
+            if (imgSrc !== PLACEHOLDER) setImgSrc(PLACEHOLDER);
           }}
         />
         {set.exclusive && (
@@ -52,6 +55,7 @@ export function SetCard({ set, status, onToggleOwned, onToggleWishlist }: Props)
           <p className="text-xs text-muted-foreground mt-0.5">
             {set.id} · {set.year}
             {set.pieces ? ` · ${set.pieces} Teile` : ""}
+            {set.exclusive ? ` · ${set.exclusive}` : ""}
           </p>
         </div>
 
@@ -71,23 +75,25 @@ export function SetCard({ set, status, onToggleOwned, onToggleWishlist }: Props)
           <Button
             size="sm"
             variant={status === "owned" ? "default" : "outline"}
+            aria-pressed={status === "owned"}
             className={`flex-1 h-7 text-xs gap-1 ${
               status === "owned" ? "bg-green-600 hover:bg-green-700 text-white" : ""
             }`}
             onClick={onToggleOwned}
           >
-            <Check className="w-3 h-3" />
+            <Check className="w-3 h-3" aria-hidden="true" />
             Owned
           </Button>
           <Button
             size="sm"
             variant={status === "wishlist" ? "default" : "outline"}
+            aria-pressed={status === "wishlist"}
             className={`flex-1 h-7 text-xs gap-1 ${
               status === "wishlist" ? "bg-yellow-500 hover:bg-yellow-600 text-white" : ""
             }`}
             onClick={onToggleWishlist}
           >
-            <Star className="w-3 h-3" />
+            <Star className="w-3 h-3" aria-hidden="true" />
             Wishlist
           </Button>
         </div>
