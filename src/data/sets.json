@@ -339,23 +339,14 @@
   },
   {
     "id": "GPH24",
-    "name": "Battle Bones",
+    "name": "Castle Grayskull",
     "year": 2022,
-    "pieces": null,
-    "figures": ["Moss Man", "Man-At-Arms", "Faker", "Teela"],
+    "pieces": 449,
+    "figures": ["Prince Adam", "He-Man"],
     "subtheme": "Exclusives & Multi-Packs",
     "exclusive": "SDCC 2022",
-    "imageUrl": "https://toyhabits.com/wp-content/uploads/2025/08/Battle-Bones-SDCC-Exclusive-Masters-of-the-Universe-Mega-Construx.webp"
-  },
-  {
-    "id": "HHW82",
-    "name": "40th Anniversary Set",
-    "year": 2023,
-    "pieces": null,
-    "figures": ["He-Man (Mini-Comic)", "He-Man (Anti-Eternia)", "He-Man (Thunder Punch)", "He-Man (Battle Armor)"],
-    "subtheme": "Exclusives & Multi-Packs",
-    "exclusive": "Mattel Creations",
-    "imageUrl": "https://placehold.co/300x300/1e3a6e/ffffff?text=40th+Anniversary"
+    "note": "Drehrad transformiert Adam zu He-Man; Glow-in-the-dark Power Sword",
+    "imageUrl": "https://www.motu-classics.de/images/mega-castle-grayskul-construx-sdcc-2022_460.jpg"
   },
   {
     "id": "HKN45",
