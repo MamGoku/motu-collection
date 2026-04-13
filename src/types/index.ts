@@ -7,6 +7,7 @@ export type MoTUSet = {
   subtheme: string;
   imageUrl?: string;
   exclusive?: string;
+  unreleased?: boolean;
 };
 
 export type CollectionStatus = "owned" | "wishlist" | "none";

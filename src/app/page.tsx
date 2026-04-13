@@ -9,6 +9,7 @@ import { FilterBar } from "@/components/FilterBar";
 import { useCollection } from "@/hooks/useCollection";
 
 const allSets = sets as MoTUSet[];
+const releasedSets = allSets.filter((s) => !s.unreleased);
 
 export default function Home() {
   const { owned, wishlist, toggleOwned, toggleWishlist, getStatus, loaded } = useCollection();
@@ -49,9 +50,9 @@ export default function Home() {
         </div>
 
         <CollectionStats
-          total={allSets.length}
-          owned={loaded ? owned.length : 0}
-          wishlist={loaded ? wishlist.length : 0}
+          total={releasedSets.length}
+          owned={loaded ? owned.filter((id) => releasedSets.some((s) => s.id === id)).length : 0}
+          wishlist={loaded ? wishlist.filter((id) => releasedSets.some((s) => s.id === id)).length : 0}
         />
 
         <FilterBar
@@ -66,7 +67,7 @@ export default function Home() {
         />
 
         <p className="text-sm text-muted-foreground">
-          {filtered.length} von {allSets.length} Sets
+          {filtered.length} von {allSets.length} Sets ({releasedSets.length} erschienen)
         </p>
 
         {loaded ? (

@@ -132,6 +132,7 @@
     "pieces": 368,
     "figures": ["Man-At-Arms"],
     "subtheme": "Vehicles",
+    "unreleased": true,
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Attak-Trak-v1.jpg?fit=980%2C550&ssl=1"
   },
   {
@@ -141,6 +142,7 @@
     "pieces": 280,
     "figures": ["Fisto"],
     "subtheme": "Creatures",
+    "unreleased": true,
     "imageUrl": "https://placehold.co/300x300/1a1a2e/e0e0e0?text=Stridor"
   },
   {
@@ -150,6 +152,7 @@
     "pieces": 280,
     "figures": ["Jitsu"],
     "subtheme": "Creatures",
+    "unreleased": true,
     "imageUrl": "https://placehold.co/300x300/1a1a2e/e0e0e0?text=Night+Stalker"
   },
   {
@@ -223,24 +226,5 @@
     "figures": ["He-Man", "Evil-Lyn"],
     "subtheme": "Vehicles",
     "imageUrl": "https://shop.mattel.com/cdn/shop/files/zrxtrf5bodiet9modbof.jpg?v=1775073922"
-  },
-  {
-    "id": "JMB29",
-    "name": "Battle of Castle Grayskull",
-    "year": 2024,
-    "pieces": null,
-    "figures": ["He-Man", "Skeletor"],
-    "subtheme": "Pro Builder",
-    "imageUrl": "https://placehold.co/300x300/1a1a2e/e0e0e0?text=Battle+Grayskull"
-  },
-  {
-    "id": "SDCC2019",
-    "name": "Battle Bone",
-    "year": 2019,
-    "pieces": null,
-    "figures": ["Skeletor"],
-    "subtheme": "Creatures",
-    "exclusive": "SDCC 2019",
-    "imageUrl": "https://placehold.co/300x300/3b0764/e0e0e0?text=SDCC+2019"
   }
 ]
