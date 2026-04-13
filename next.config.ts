@@ -6,6 +6,7 @@ const nextConfig: NextConfig = {
       { hostname: "shop.mattel.com" },
       { hostname: "i0.wp.com" },
       { hostname: "placehold.co" },
+      { hostname: "toyhabits.com" },
     ],
   },
 };
