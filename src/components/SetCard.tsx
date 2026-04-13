@@ -23,7 +23,7 @@ export function SetCard({ set, status, onToggleOwned, onToggleWishlist }: Props)
 
   const borderColor =
     status === "owned"
-      ? "border-green-500"
+      ? "border-primary"
       : status === "wishlist"
       ? "border-yellow-400"
       : "border-transparent";
@@ -32,7 +32,7 @@ export function SetCard({ set, status, onToggleOwned, onToggleWishlist }: Props)
     <Card
       className={`border-2 ring-0 ${borderColor} transition-colors duration-200 flex flex-col overflow-hidden bg-card ${!isCollectible ? "opacity-60" : ""}`}
     >
-      <div className="relative aspect-square bg-muted">
+      <div className="relative aspect-square bg-muted/50">
         <Image
           src={imgSrc}
           alt={set.name}
@@ -90,7 +90,7 @@ export function SetCard({ set, status, onToggleOwned, onToggleWishlist }: Props)
             aria-pressed={status === "owned"}
             disabled={set.unreleased || !isCollectible}
             className={`flex-1 h-7 text-xs gap-1 ${
-              status === "owned" ? "bg-green-600 hover:bg-green-700 text-white" : ""
+              status === "owned" ? "bg-primary hover:bg-primary/90 text-primary-foreground" : ""
             }`}
             onClick={onToggleOwned}
           >

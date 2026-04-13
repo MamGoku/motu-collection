@@ -56,7 +56,7 @@ export function FilterBar({
           id="year-filter"
           value={year}
           onChange={(e) => onYearChange(e.target.value)}
-          className="h-8 rounded-md border border-input bg-background px-2 text-xs"
+          className="h-8 rounded-md border border-input bg-card text-foreground px-2 text-xs"
         >
           <option value="">Alle Jahre</option>
           {years.map((y) => (
@@ -75,7 +75,7 @@ export function FilterBar({
           id="subtheme-filter"
           value={subtheme}
           onChange={(e) => onSubthemeChange(e.target.value)}
-          className="h-8 rounded-md border border-input bg-background px-2 text-xs"
+          className="h-8 rounded-md border border-input bg-card text-foreground px-2 text-xs"
         >
           <option value="">Alle Subthemen</option>
           {subthemes.map((s) => (
