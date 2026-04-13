@@ -76,6 +76,12 @@ export function SetCard({ set, status, onToggleOwned, onToggleWishlist }: Props)
           </p>
         )}
 
+        {set.note && (
+          <p className="text-[10px] text-muted-foreground/70 leading-snug italic">
+            {set.note}
+          </p>
+        )}
+
         <div className="flex gap-1.5 mt-auto pt-1">
           <Button
             size="sm"

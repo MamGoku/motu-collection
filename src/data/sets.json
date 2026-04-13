@@ -99,12 +99,13 @@
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2022/12/Land-Shark.jpg?fit=963%2C509&ssl=1"
   },
   {
-    "id": "HDG61",
+    "id": "GPH24",
     "name": "Battle Bones",
     "year": 2022,
-    "pieces": 257,
-    "figures": ["Skeletor", "He-Man"],
+    "pieces": null,
+    "figures": ["Moss Man", "Man-At-Arms", "Faker", "Teela"],
     "subtheme": "Creatures",
+    "exclusive": "SDCC 2022",
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Battle-Bones-v1-01.jpg?fit=980%2C512&ssl=1"
   },
   {
@@ -133,6 +134,7 @@
     "figures": ["Man-At-Arms"],
     "subtheme": "Vehicles",
     "unreleased": true,
+    "note": "Gestrichen; Attak Trak erschien stattdessen in HFF28 Eternia Battleground",
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Attak-Trak-v1.jpg?fit=980%2C550&ssl=1"
   },
   {
@@ -193,21 +195,34 @@
   },
   {
     "id": "HKN48",
-    "name": "Battle for Eternia II",
+    "name": "Battle for Eternia III",
     "year": 2023,
     "pieces": null,
-    "figures": ["Wun-Dar", "Orko", "Teela", "Mer-Man", "Scareglow", "Whiplash"],
+    "figures": ["Buzz-Off", "Ninjor"],
     "subtheme": "Battle Figures",
+    "unreleased": true,
+    "note": "Gestrichen; Figuren erschienen einzeln oder in HFF28 Eternia Battleground",
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Battle-for-Eternia-II.jpg?fit=980%2C461&ssl=1"
   },
   {
-    "id": "HKN49",
+    "id": "HFF28",
     "name": "Eternia Battleground",
     "year": 2023,
     "pieces": null,
     "figures": ["He-Man", "Buzz-Off", "Webstor", "Ninjor"],
-    "subtheme": "Battle Figures",
+    "subtheme": "Playsets",
+    "note": "Enthält Power Tower und Attak Trak",
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Eternia-Battleground-front.jpg?fit=386%2C718&ssl=1"
+  },
+  {
+    "id": "HHW82",
+    "name": "40th Anniversary Set",
+    "year": 2023,
+    "pieces": null,
+    "figures": ["He-Man (Mini-Comic)", "He-Man (Anti-Eternia)", "He-Man (Thunder Punch)", "He-Man (Battle Armor)"],
+    "subtheme": "Exclusives",
+    "exclusive": "Mattel Creations",
+    "imageUrl": "https://placehold.co/300x300/1a1a2e/e0e0e0?text=40th+Anniversary"
   },
   {
     "id": "JMB30",
@@ -226,5 +241,15 @@
     "figures": ["He-Man", "Evil-Lyn"],
     "subtheme": "Vehicles",
     "imageUrl": "https://shop.mattel.com/cdn/shop/files/zrxtrf5bodiet9modbof.jpg?v=1775073922"
+  },
+  {
+    "id": "JMB32",
+    "name": "Battle of Castle Grayskull",
+    "year": 2026,
+    "pieces": null,
+    "figures": ["He-Man", "Skeletor"],
+    "subtheme": "Pro Builder",
+    "note": "Nano-Maßstab, keine artikulierten Mikro-Figuren",
+    "imageUrl": "https://placehold.co/300x300/1a1a2e/e0e0e0?text=Grayskull+2026"
   }
 ]

@@ -8,6 +8,7 @@ export type MoTUSet = {
   imageUrl?: string;
   exclusive?: string;
   unreleased?: boolean;
+  note?: string;
 };
 
 export type CollectionStatus = "owned" | "wishlist" | "none";
