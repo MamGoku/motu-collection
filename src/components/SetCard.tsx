@@ -15,7 +15,7 @@ type Props = {
   onToggleWishlist: () => void;
 };
 
-const PLACEHOLDER = "https://placehold.co/300x300/1a1a2e/e0e0e0?text=MOTU";
+const PLACEHOLDER = "https://placehold.co/300x300/1e3a6e/ffffff?text=MOTU";
 
 export function SetCard({ set, status, onToggleOwned, onToggleWishlist }: Props) {
   const [imgSrc, setImgSrc] = useState(set.imageUrl || PLACEHOLDER);
@@ -44,7 +44,7 @@ export function SetCard({ set, status, onToggleOwned, onToggleWishlist }: Props)
           }}
         />
         {set.exclusive && (
-          <span className="absolute top-2 left-2 bg-purple-600 text-white text-[10px] font-bold px-1.5 py-0.5 rounded">
+          <span className="absolute top-2 left-2 bg-primary text-primary-foreground text-[10px] font-bold px-1.5 py-0.5 rounded">
             {set.exclusive}
           </span>
         )}

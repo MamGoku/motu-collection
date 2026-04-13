@@ -40,14 +40,17 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-background text-foreground">
       <div className="max-w-7xl mx-auto px-4 py-8 space-y-6">
-        <div className="border-b border-primary/30 pb-5">
+        <div className="border-b border-white/20 pb-5">
           <h1
-            className="text-3xl sm:text-4xl font-black tracking-widest uppercase text-primary"
-            style={{ fontFamily: "var(--font-cinzel)" }}
+            className="text-4xl sm:text-5xl font-black tracking-wider uppercase text-white"
+            style={{
+              fontFamily: "var(--font-cinzel)",
+              textShadow: "2px 2px 0 oklch(0.55 0.22 30), 0 0 20px oklch(0.72 0.19 42 / 60%)",
+            }}
           >
             Masters of the Universe
           </h1>
-          <p className="text-sm font-medium tracking-widest uppercase text-muted-foreground mt-1">
+          <p className="text-xs font-bold tracking-[0.3em] uppercase text-white/60 mt-2">
             Mega Construx &nbsp;·&nbsp; Collection Tracker
           </p>
         </div>
