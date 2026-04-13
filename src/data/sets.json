@@ -18,14 +18,24 @@
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2023/10/Snake-Mountain-front.jpg?fit=905%2C693&ssl=1"
   },
   {
+    "id": "JMB31",
+    "name": "Clash at Snake Mountain",
+    "year": 2026,
+    "pieces": 636,
+    "figures": [],
+    "subtheme": "Large Playsets",
+    "note": "12 Nanoworld-Figuren; Mattel Brick Shop",
+    "imageUrl": "https://www.promobricks.de/wp-content/uploads/2026/04/mattel-brick-shop-clash-box.jpg"
+  },
+  {
     "id": "JMB32",
     "name": "Battle of Castle Grayskull",
     "year": 2026,
-    "pieces": null,
+    "pieces": 867,
     "figures": ["He-Man", "Skeletor"],
     "subtheme": "Large Playsets",
-    "note": "Nano-Maßstab, keine artikulierten Mikro-Figuren",
-    "imageUrl": "https://placehold.co/300x300/1e3a6e/ffffff?text=Grayskull+2026"
+    "note": "16 Nanoworld-Figuren; Mattel Brick Shop (kein Mega Construx)",
+    "imageUrl": "https://www.promobricks.de/wp-content/uploads/2026/04/mattel-brick-shop-grayskull-box.jpg"
   },
   {
     "id": "GNH84",
@@ -95,10 +105,11 @@
     "id": "JMB30",
     "name": "Attack of the Collector",
     "year": 2024,
-    "pieces": 594,
+    "pieces": 593,
     "figures": ["He-Man", "The Collector"],
     "subtheme": "Vehicles & Battle Sets",
-    "imageUrl": "https://shop.mattel.com/cdn/shop/files/u3hsbtnnaf2nahtkh0ku.jpg?v=1775593817"
+    "note": "12 Nanoworld-Figuren; Mattel Brick Shop",
+    "imageUrl": "https://www.promobricks.de/wp-content/uploads/2026/04/mattel-brick-shop-collector-box.jpg"
   },
   {
     "id": "JNF83",
@@ -107,7 +118,8 @@
     "pieces": 411,
     "figures": ["He-Man", "Evil-Lyn"],
     "subtheme": "Vehicles & Battle Sets",
-    "imageUrl": "https://shop.mattel.com/cdn/shop/files/zrxtrf5bodiet9modbof.jpg?v=1775073922"
+    "note": "10 Nanoworld-Figuren; Mattel Brick Shop",
+    "imageUrl": "https://www.promobricks.de/wp-content/uploads/2026/04/mattel-brick-shop-flight-fight-box.jpg"
   },
   {
     "id": "GNN86",
