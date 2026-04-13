@@ -8,7 +8,7 @@ const nextConfig: NextConfig = {
       { hostname: "i0.wp.com" },
       { hostname: "placehold.co" },
       { hostname: "toyhabits.com" },
-      { hostname: "www.motu-classics.de" },
+      { hostname: "www.masters-toys.de" },
     ],
   },
 };

@@ -349,6 +349,16 @@
     "imageUrl": "https://www.motu-classics.de/images/mega-castle-grayskul-construx-sdcc-2022_460.jpg"
   },
   {
+    "id": "SDCC2019",
+    "name": "Battle Bones",
+    "year": 2019,
+    "pieces": null,
+    "figures": [],
+    "subtheme": "Exclusives & Multi-Packs",
+    "exclusive": "SDCC 2019",
+    "imageUrl": "https://www.masters-toys.de/media/d2/cd/7e/1750749612/870_0.jpg"
+  },
+  {
     "id": "HKN45",
     "name": "Man-At-Arms & Attak Trak",
     "year": 2022,
