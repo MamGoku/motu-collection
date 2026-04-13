@@ -1,0 +1,219 @@
+[
+  {
+    "id": "GNH84",
+    "name": "Wind Raider Attack",
+    "year": 2021,
+    "pieces": 273,
+    "figures": ["He-Man", "Skeletor"],
+    "subtheme": "Vehicles",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/GNH84"
+  },
+  {
+    "id": "GNN86",
+    "name": "Battle Cat",
+    "year": 2021,
+    "pieces": 198,
+    "figures": ["He-Man"],
+    "subtheme": "Creatures",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/GNN86"
+  },
+  {
+    "id": "GNN87",
+    "name": "Panthor & Skeletor",
+    "year": 2021,
+    "pieces": 208,
+    "figures": ["Skeletor"],
+    "subtheme": "Creatures",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/GNN87"
+  },
+  {
+    "id": "GXP25",
+    "name": "Battle Ram",
+    "year": 2021,
+    "pieces": 285,
+    "figures": ["Mekanek", "Tri-Klops"],
+    "subtheme": "Vehicles",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/GXP25"
+  },
+  {
+    "id": "GXP27",
+    "name": "He-Man & Jet Sled",
+    "year": 2021,
+    "pieces": 81,
+    "figures": ["He-Man"],
+    "subtheme": "Battle Figures",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/GXP27"
+  },
+  {
+    "id": "GXP28",
+    "name": "Fisto & Cliff Climber",
+    "year": 2021,
+    "pieces": 110,
+    "figures": ["Fisto"],
+    "subtheme": "Battle Figures",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/GXP28"
+  },
+  {
+    "id": "GXP29",
+    "name": "Trap Jaw & Laser Cannon",
+    "year": 2021,
+    "pieces": 91,
+    "figures": ["Trap Jaw"],
+    "subtheme": "Battle Figures",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/GXP29"
+  },
+  {
+    "id": "GNH85",
+    "name": "Pro Builder Castle Grayskull",
+    "year": 2021,
+    "pieces": 3508,
+    "figures": ["He-Man", "Skeletor", "Man-at-Arms", "Teela", "Sorceress", "Zoar", "Beast Man"],
+    "subtheme": "Pro Builder",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/GNH85"
+  },
+  {
+    "id": "GYV14",
+    "name": "Roton & Battle Cat",
+    "year": 2022,
+    "pieces": 537,
+    "figures": ["He-Man (Battle Armor)", "Mer-Man"],
+    "subtheme": "Vehicles",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/GYV14"
+  },
+  {
+    "id": "GXP26",
+    "name": "Point Dread & Talon Fighter",
+    "year": 2022,
+    "pieces": 548,
+    "figures": ["Zodac", "Sorceress", "Skeletor (Battle Armor)", "Zoar"],
+    "subtheme": "Vehicles",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/GXP26"
+  },
+  {
+    "id": "HDG60",
+    "name": "Landshark (Squalor)",
+    "year": 2022,
+    "pieces": 489,
+    "figures": ["Skeletor (Battle Armor)", "Roboto"],
+    "subtheme": "Vehicles",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/HDG60"
+  },
+  {
+    "id": "HDG61",
+    "name": "Battle Bones",
+    "year": 2022,
+    "pieces": 257,
+    "figures": ["Skeletor", "He-Man"],
+    "subtheme": "Creatures",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/HDG61"
+  },
+  {
+    "id": "HKN43",
+    "name": "Monstroid",
+    "year": 2022,
+    "pieces": 537,
+    "figures": ["She-Ra", "Hordak", "Prince Adam"],
+    "subtheme": "Creatures",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/HKN43"
+  },
+  {
+    "id": "HKN44",
+    "name": "Pro Builder Snake Mountain",
+    "year": 2022,
+    "pieces": 3508,
+    "figures": ["He-Man (Thunder Punch)", "Dragon Blaster Skeletor", "Evil-Lyn", "Trap Jaw", "Webstor", "Ram-Man"],
+    "subtheme": "Pro Builder",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/HKN44"
+  },
+  {
+    "id": "HKN45",
+    "name": "Man-At-Arms & Attak Trak",
+    "year": 2022,
+    "pieces": 368,
+    "figures": ["Man-At-Arms"],
+    "subtheme": "Vehicles",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/HKN45"
+  },
+  {
+    "id": "HKN46",
+    "name": "Stridor & Fisto",
+    "year": 2022,
+    "pieces": 280,
+    "figures": ["Fisto"],
+    "subtheme": "Creatures",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/HKN46"
+  },
+  {
+    "id": "HKN47",
+    "name": "Night Stalker & Jitsu",
+    "year": 2022,
+    "pieces": 280,
+    "figures": ["Jitsu"],
+    "subtheme": "Creatures",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/HKN47"
+  },
+  {
+    "id": "HHK96",
+    "name": "Evil Seed Vine Trap",
+    "year": 2022,
+    "pieces": 196,
+    "figures": ["Evil Seed", "She-Ra"],
+    "subtheme": "Battle Figures",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/HHK96"
+  },
+  {
+    "id": "HHK97",
+    "name": "Ram-Man Battle Crash",
+    "year": 2022,
+    "pieces": 148,
+    "figures": ["Ram-Man", "Trap Jaw"],
+    "subtheme": "Battle Figures",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/HHK97"
+  },
+  {
+    "id": "HHK98",
+    "name": "Castle Grayskull Battle",
+    "year": 2022,
+    "pieces": 191,
+    "figures": ["He-Man", "Beast Man"],
+    "subtheme": "Battle Figures",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/HHK98"
+  },
+  {
+    "id": "JMB30",
+    "name": "Attack of the Collector",
+    "year": 2024,
+    "pieces": 594,
+    "figures": ["He-Man", "The Collector"],
+    "subtheme": "Vehicles",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/JMB30"
+  },
+  {
+    "id": "JNF83",
+    "name": "Eternia Flight Fight",
+    "year": 2024,
+    "pieces": 411,
+    "figures": ["He-Man", "Evil-Lyn"],
+    "subtheme": "Vehicles",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/JNF83"
+  },
+  {
+    "id": "JMB29",
+    "name": "Battle of Castle Grayskull",
+    "year": 2024,
+    "pieces": null,
+    "figures": ["He-Man", "Skeletor"],
+    "subtheme": "Pro Builder",
+    "imageUrl": "https://images.mattel.com/is/image/MattelAFI/JMB29"
+  },
+  {
+    "id": "SDCC2019",
+    "name": "Battle Bone",
+    "year": 2019,
+    "pieces": null,
+    "figures": ["Skeletor"],
+    "subtheme": "Creatures",
+    "exclusive": "SDCC 2019",
+    "imageUrl": ""
+  }
+]
