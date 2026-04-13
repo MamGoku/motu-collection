@@ -204,6 +204,7 @@
     "pieces": null,
     "figures": ["He-Man"],
     "subtheme": "Single Figure Packs",
+    "collectible": false,
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/06/He-Man-v1-Finished.jpg?fit=720%2C480&ssl=1"
   },
   {
@@ -213,6 +214,7 @@
     "pieces": null,
     "figures": ["Skeletor"],
     "subtheme": "Single Figure Packs",
+    "collectible": false,
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/06/Skeletor-v1-Finished.jpg?fit=720%2C480&ssl=1"
   },
   {
@@ -222,6 +224,7 @@
     "pieces": null,
     "figures": ["Beast Man"],
     "subtheme": "Single Figure Packs",
+    "collectible": false,
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/06/Beast-Man-v1-Finished.jpg?fit=720%2C480&ssl=1"
   },
   {
@@ -231,6 +234,7 @@
     "pieces": null,
     "figures": ["Teela"],
     "subtheme": "Single Figure Packs",
+    "collectible": false,
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/06/Teela-v1-Finished.jpg?fit=720%2C480&ssl=1"
   },
   {
@@ -240,6 +244,7 @@
     "pieces": null,
     "figures": ["Man-At-Arms"],
     "subtheme": "Single Figure Packs",
+    "collectible": false,
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/09/Man-At-Arms-v1.jpg?fit=855%2C570&ssl=1"
   },
   {
@@ -249,6 +254,7 @@
     "pieces": null,
     "figures": ["Evil-Lyn"],
     "subtheme": "Single Figure Packs",
+    "collectible": false,
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/08/Evil-Lyn-v1-Finished.jpg?fit=720%2C480&ssl=1"
   },
   {
@@ -258,6 +264,7 @@
     "pieces": null,
     "figures": ["Stratos"],
     "subtheme": "Single Figure Packs",
+    "collectible": false,
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/08/Stratos-v1-a.jpg?fit=855%2C570&ssl=1"
   },
   {
@@ -267,6 +274,7 @@
     "pieces": null,
     "figures": ["Scare Glow"],
     "subtheme": "Single Figure Packs",
+    "collectible": false,
     "note": "Glow in the Dark",
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/08/Scareglow-v1-Finished-1.jpg?fit=720%2C480&ssl=1"
   },
@@ -277,6 +285,7 @@
     "pieces": null,
     "figures": ["Prince Adam"],
     "subtheme": "Single Figure Packs",
+    "collectible": false,
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/06/Prince-Adam-v1-Finished.jpg?fit=720%2C480&ssl=1"
   },
   {
@@ -286,6 +295,7 @@
     "pieces": null,
     "figures": ["Moss Man"],
     "subtheme": "Single Figure Packs",
+    "collectible": false,
     "note": "Beflockt",
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/09/Moss-Man-v1.jpg?fit=855%2C570&ssl=1"
   },
@@ -296,6 +306,7 @@
     "pieces": null,
     "figures": ["Mer-Man"],
     "subtheme": "Single Figure Packs",
+    "collectible": false,
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/09/Merman-v1.jpg?fit=855%2C570&ssl=1"
   },
   {
@@ -305,6 +316,7 @@
     "pieces": null,
     "figures": ["Fisto"],
     "subtheme": "Single Figure Packs",
+    "collectible": false,
     "imageUrl": "https://i0.wp.com/escapistheaven.com.au/wp-content/uploads/2020/09/Fisto-v1.jpg?fit=855%2C570&ssl=1"
   },
   {

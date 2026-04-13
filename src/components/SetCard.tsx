@@ -19,6 +19,7 @@ const PLACEHOLDER = "https://placehold.co/300x300/1a1a2e/e0e0e0?text=MOTU";
 
 export function SetCard({ set, status, onToggleOwned, onToggleWishlist }: Props) {
   const [imgSrc, setImgSrc] = useState(set.imageUrl || PLACEHOLDER);
+  const isCollectible = set.collectible !== false;
 
   const borderColor =
     status === "owned"
@@ -29,7 +30,7 @@ export function SetCard({ set, status, onToggleOwned, onToggleWishlist }: Props)
 
   return (
     <Card
-      className={`border-2 ring-0 ${borderColor} transition-colors duration-200 flex flex-col overflow-hidden bg-card`}
+      className={`border-2 ring-0 ${borderColor} transition-colors duration-200 flex flex-col overflow-hidden bg-card ${!isCollectible ? "opacity-60" : ""}`}
     >
       <div className="relative aspect-square bg-muted">
         <Image
@@ -87,7 +88,7 @@ export function SetCard({ set, status, onToggleOwned, onToggleWishlist }: Props)
             size="sm"
             variant={status === "owned" ? "default" : "outline"}
             aria-pressed={status === "owned"}
-            disabled={set.unreleased}
+            disabled={set.unreleased || !isCollectible}
             className={`flex-1 h-7 text-xs gap-1 ${
               status === "owned" ? "bg-green-600 hover:bg-green-700 text-white" : ""
             }`}
@@ -100,7 +101,7 @@ export function SetCard({ set, status, onToggleOwned, onToggleWishlist }: Props)
             size="sm"
             variant={status === "wishlist" ? "default" : "outline"}
             aria-pressed={status === "wishlist"}
-            disabled={set.unreleased}
+            disabled={set.unreleased || !isCollectible}
             className={`flex-1 h-7 text-xs gap-1 ${
               status === "wishlist" ? "bg-yellow-500 hover:bg-yellow-600 text-white" : ""
             }`}

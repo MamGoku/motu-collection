@@ -8,6 +8,7 @@ export type MoTUSet = {
   imageUrl?: string;
   exclusive?: string;
   unreleased?: boolean;
+  collectible?: boolean;
   note?: string;
 };
 

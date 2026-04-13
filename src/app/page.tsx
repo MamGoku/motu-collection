@@ -9,7 +9,7 @@ import { FilterBar } from "@/components/FilterBar";
 import { useCollection } from "@/hooks/useCollection";
 
 const allSets = sets as MoTUSet[];
-const releasedSets = allSets.filter((s) => !s.unreleased);
+const releasedSets = allSets.filter((s) => !s.unreleased && s.collectible !== false);
 
 export default function Home() {
   const { owned, wishlist, toggleOwned, toggleWishlist, getStatus, loaded } = useCollection();
